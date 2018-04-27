@@ -108,7 +108,7 @@ public:
 		//return Head;
 	}
 
-	void Header(ofstream file) {
+	void Header() {
 		cout << "////////////////////////////////////////////////////////////";
 		cout << "//////////////////" << endl << "// ProgramName: Program 3 -";
 		cout << "Survival of the Lucky" << endl << "// Author: Collin Bachman";
